@@ -79,5 +79,7 @@ Grading:
 The TAs will be grading your lab after the due date, so you probably ought to have another student in the class test your code to make sure it works.  The following rubric will be used:
 
 +10 points: If your program prints out the name of the file and the number of days in the rolling average on the command-line
+  
 +40 points: If your program prints out the contents of the queue for each stage of the rolling average
+  
 +50 points: If your program correctly prints out the average values
